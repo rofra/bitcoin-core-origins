@@ -6,6 +6,7 @@ The article refers to a Facebook post from Jim Blasko on https://www.facebook.co
 
 This repository is an historic archive of the origins of the bitcoin source code thanks to this discover.
 
+If you want the full code with history of commits, please go to the other repo on https://github.com/rofra/bitcoin-core-origins-repo
 
 ## Repository Tree presentation
 ```code
